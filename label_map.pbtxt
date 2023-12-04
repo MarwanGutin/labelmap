@@ -1,0 +1,24 @@
+item { 
+	name:'Helicopter'
+	id:1
+}
+item { 
+	name:'Person'
+	id:2
+}
+item { 
+	name:'Tank'
+	id:3
+}
+item { 
+	name:'Vehicle'
+	id:4
+}
+item { 
+	name:'airplane'
+	id:5
+}
+item { 
+	name:'Airplane'
+	id:6
+}
